@@ -1,0 +1,109 @@
+span {
+
+    color: white;
+    font-weight: bolder;
+    font-size: x-large;
+
+
+
+}
+
+.bu {
+    margin-left: 95vh;
+
+    width: 20vh;
+
+
+}
+
+h1 {
+    color: black;
+    margin-top: 30vh;
+    margin-left: 95vh;
+}
+
+body {
+    background-color: darkslategrey;
+
+}
+
+#min {
+
+
+    background-color: black;
+}
+
+#hor {
+
+    background-color: black;
+}
+
+#sec {
+    background-color: black;
+
+}
+
+.but {
+
+    margin-left: 85vh;
+    padding-top: 20px;
+}
+
+
+#res {
+
+
+    color: black;
+    font-weight: bolder;
+    background-color: rgb(233, 73, 73);
+    border-color: rgb(233, 73, 73);
+    width: 12vh;
+    height: 4vh;
+    border-radius: 19px;
+}
+#sta{
+  
+    color: black;
+    font-weight: bolder;
+    background-color:rgb(61, 61, 140);
+    border-color:rgb(61, 61, 140);
+    width: 12vh;
+    height: 4vh;
+    border-radius: 19px;
+   
+
+}
+#pas{
+
+    color: black;
+    font-weight: bolder;
+    background-color:  rgb(82, 185, 82);
+    border-color: rgb(82, 185, 82);
+    width: 12vh;
+    height: 4vh;
+    border-radius: 19px;
+}
+/* #non{
+   
+
+} */
+
+.input{
+
+margin-left: 85vh;
+position: relative;
+top: 25vh;
+
+}
+#start{
+
+
+    color: black;
+    font-weight: bolder;
+    background-color:rgb(61, 61, 140);
+    border-color:rgb(61, 61, 140);
+    width: 12vh;
+    height: 4vh;
+    border-radius: 19px;
+
+}

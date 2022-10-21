@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    
+    
+    <div class="input">
+
+       <span>Mint :</span> <input type="text" id="inp2" maxlength="2"><br />
+       <span>Second :</span> <input type="text" id="inp3" maxlength="2"><br />
+    </div>
+
+           <h1>Timer</h1>
+    <div class="bu">
+ 
+        <span>Hours</span> <span id="hor">00</span><br />
+        <span>Mint</span> <span id="min">00</span><br />
+        <span>Second</span> <span id="sec">00</span><br />
+
+    </div>
+    <div class="but">
+        <button id="sta" onclick="sta(this.disabled='true')">Start</button> 
+        <button id="pas" onclick="pass()">Stop</button>
+        <button id="res" onclick="rest()">Reset</button>
+
+
+    </div>
+  
+
+    <script src="app.js"></script>
+</body>
+
+</html>
